@@ -2,7 +2,7 @@
   "products": [
     {
       "_id": "food1",
-      "image": "/image/food1.jpeg",
+      "image": "/images/food1.jpeg",
       "title": "Haltbare Vollmilch",
       "brandName": "ja!",
       "price": 2.99,
@@ -10,7 +10,7 @@
     },
     {
       "_id": "food2",
-      "image": "/image/food2.jpeg",
+      "image": "/images/food2.jpeg",
       "title": "Milch Schnitte",
       "brandName": "Bauer",
       "price": 1.5,
@@ -18,7 +18,7 @@
     },
     {
       "_id": "food3",
-      "image": "/image/food3.jpeg",
+      "image": "/images/food3.jpeg",
       "title": "Müller Milch",
       "brandName": "Bauer",
       "price": 1,
@@ -26,7 +26,7 @@
     },
     {
       "_id": "food4",
-      "image": "/image/food4.jpeg",
+      "image": "/images/food4.jpeg",
       "title": "Butter & Rapsöl",
       "brandName": "Thomas",
       "price": 3.45,
@@ -34,7 +34,7 @@
     },
     {
       "_id": "food5",
-      "image": "/image/food5.jpeg",
+      "image": "/images/food5.jpeg",
       "title": "Burrata",
       "brandName": "ja!",
       "price": 2.78,
@@ -42,7 +42,7 @@
     },
     {
       "_id": "food6",
-      "image": "/image/food6.jpeg",
+      "image": "/images/food6.jpeg",
       "title": "Fruchtzwerge",
       "brandName": "Bauer",
       "price": 1.5,
@@ -50,7 +50,7 @@
     },
     {
       "_id": "food7",
-      "image": "/image/food7.jpeg",
+      "image": "/images/food7.jpeg",
       "title": "Frischeeier",
       "brandName": "Thomas",
       "price": 4.55,
@@ -58,7 +58,7 @@
     },
     {
       "_id": "food8",
-      "image": "/image/food8.jpeg",
+      "image": "/images/food8.jpeg",
       "title": "Sahnigekäse",
       "brandName": "ja!",
       "price": 2.5,

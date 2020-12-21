@@ -23,3 +23,35 @@ textarea {
   grid-template-columns: 1fr;
   height: 100%;
 }
+header a {
+  color: white;
+  text-decoration: none;
+}
+header,
+footer {
+  background-color: rgb(71, 4, 85);
+  color: white;
+  padding: 1.6rem;
+  text-align: center;
+}
+
+/* Products */
+div ul {
+  list-style: none;
+}
+.prodList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.itemList {
+  border: 0.01rem solid rgb(247, 188, 242);
+  width: 32rem;
+}
+.imageList {
+  height: 32rem;
+}
+.info {
+  padding-left: 2rem;
+  font-weight: 700;
+}
